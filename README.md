@@ -1,4 +1,4 @@
-# Hamzex
+Ceyro
 
 Linux only internal skin changer for **Counter-Strike 2**.
 
@@ -95,18 +95,3 @@ m249
 zeus
 negev
 sawedoff
-```
-
-## TODO List
-
-- Legacy skin support
-
-- Glove support
-
-- Fix knife inspect animation bug
-
-## License
-
-> Copyright (c) 2026 Enes Hamza
-
-This project is licensed under the GPL 3.0 - see the [LICENSE](https://gitlab.com/eneshamza/hamzex/-/blob/main/LICENSE) file for details.
